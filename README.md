@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
-<h5 align="center">I’m a Front-End Web Developer specializing in React.js, JavaScript, and responsive UI using HTML, CSS, and Bootstrap. Passionate about creating clean, interactive web interfaces and always eager to learn and grow</h4>
+<p align="center">I’m a Front-End Web Developer specializing in React.js, JavaScript, and responsive UI using HTML, CSS, and Bootstrap. Passionate about creating clean, interactive web interfaces and always eager to learn and grow</p>
 
 ---
 
