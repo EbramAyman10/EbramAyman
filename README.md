@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ebram Ayman</h1>
-<h3 align="center">A passionate Front-end Developer (React.js)</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Coding GIF"/>
 </p>
-
+<h4 align="center">I’m a Front-End Web Developer specializing in React.js, JavaScript, and responsive UI using HTML, CSS, and Bootstrap. Passionate about creating clean, interactive web interfaces and always eager to learn and grow</h4>
 ---
 
 - 🌱 I’m currently learning through **Digital Egypt Pioneers (DEPI)** scholarship  
